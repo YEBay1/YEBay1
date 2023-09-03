@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yunusemre_bayezit/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-800080?style=flat-quare&labelColor=800080&logo=Twitter&logoColor=white&link=link)](https://twitter.com/YunusBayezit11) 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=merko) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=gruvbox)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=onedark) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=highcontrast)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=cobalt)
 
