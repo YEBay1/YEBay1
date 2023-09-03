@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-800080?style=flat-quare&labelColor=800080&logo=Twitter&logoColor=white&link=link)](https://twitter.com/YunusBayezit11) 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=radical)
+
+
 
