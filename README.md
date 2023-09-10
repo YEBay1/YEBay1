@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1143be?style=flat-quare&labelColor=1143be&logo=Twitter&logoColor=white&link=link)](https://twitter.com/YunusBayezit11) 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=cobalt)
-
+![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=YEBay1&layout=compact&hide=html,css)
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&count_private=true&hide=contribs,issues" alt="Yunus's github stats" />
