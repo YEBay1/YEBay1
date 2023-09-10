@@ -13,5 +13,5 @@
 </p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yunus-emre-bayezit-853a7922a/)
+[![Linkedin Badge](https://img.shields.io/badge/YunusEmreBayezit-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yunus-emre-bayezit-853a7922a/)
 
