@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 - 🔭 I’m currently working on SwiftUI 
 - 🌱 I’m currently learning Swift (UIKit, SwiftUI)
