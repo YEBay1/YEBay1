@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 - 🔭 I’m currently working on SwiftUI 
-- 🌱 I’m currently learning Swift (UIKit, SwiftUI)
+- 🌱 I’m currently learning Swift (SwiftUI)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/YEBay1) 
